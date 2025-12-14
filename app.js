@@ -1,5 +1,18 @@
 //****CHAPTER 12-13********//
+//****CHAPTER 12-13 QUESTION 1*******//
 
+// var num;  
+ //var alphabet= prompt("enter a alphabet.");
+
+//if (alphabet === "A") {
+    // num = 65; } 
+//else if (alphabet === "a") {
+    // num = 97;}
+    // else if (alphabet === "Z"){
+   // num = 90;  }
+//else if (alphabet === "z"){
+//    num = 122; }
+// alert(alphabet + " = " + num);
 //****CHAPTER 12-13****QUESTION 2****//
 //var num1 = Number(prompt("Enter first integer:"));
 //var num2 = Number(prompt("Enter second integer:"));
