@@ -1,18 +1,23 @@
 //****CHAPTER 12-13********//
 //****CHAPTER 12-13 QUESTION 1*******//
 
-// var num;  
- //var alphabet= prompt("enter a alphabet.");
+var  ch = prompt("Enter a character")
+var input = ch.charCodeAt()
 
-//if (alphabet === "A") {
-    // num = 65; } 
-//else if (alphabet === "a") {
-    // num = 97;}
-    // else if (alphabet === "Z"){
-   // num = 90;  }
-//else if (alphabet === "z"){
-//    num = 122; }
-// alert(alphabet + " = " + num);
+if (input >= 48 && input <= 57)
+{alert ("it's a number")}
+
+else if (input >= 65 && input <= 90)
+{alert ("it's a upper case")}
+
+else if (input >= 97 && input <= 122)
+{alert ("it's a lower case")}
+
+else {alert ("it's not a number or alphabet");}
+
+
+
+
 //****CHAPTER 12-13****QUESTION 2****//
 //var num1 = Number(prompt("Enter first integer:"));
 //var num2 = Number(prompt("Enter second integer:"));
